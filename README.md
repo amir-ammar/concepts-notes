@@ -84,5 +84,5 @@ mx (Node x t) = if x > y then x else y   --returns the maximum value in the list
 
 -----------------------------------------------------
 # C
-
+---
 
